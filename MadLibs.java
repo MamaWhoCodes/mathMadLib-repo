@@ -7,6 +7,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
+//Author Sharon Mutugi    email jeltsmutugi@yahoo.com
 
 /*This  Java code is for a math mad lib  game.   
 I use JSON to store the user responses and accompanying story  in a file. 
